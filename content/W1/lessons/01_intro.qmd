@@ -47,8 +47,8 @@ You will do most of the work.
 1. Slides
 2. Lecture Notes
 3. Labs
-4. Exercises (Knowledge and Skill)
-
+4. Exercises
+5. Projects
 
 ## 1. Lecture Notes
 
@@ -74,9 +74,16 @@ You will do most of the work.
 ## 4. Exercises
 
 - Assignments with increasing level of difficulty
-- Some will test knowledge. Others will test skills
+- Some will test **knowledge**. Others will test **skills** (programming)
 - You are expected to finish them in class, and before the next day
 - **When?**: to be done during class, **after lecture and labs**.
+
+
+## 5. Projects
+
+- Each course will have a project
+- Apply knowledge and skills learned throuought the week on a specific problem
+- **When?**: at the end of the course.
 
 
 ## Submit your Work
@@ -144,13 +151,13 @@ Your brain wants comfort; but as we all know- No pain. No gain. This is true for
 
 ## Evaluations
 
-Throughout the week, you will be asked to be in a **one-to-one interview** (max 10 questions). You should be able to:
+Towards the end of the course, expect to be tested in a **one-to-one interview** (max 10 questions). You should be able to:
 
 1. express the ideas accurately in your own words (memorization + understanding)
 2. answer matching the level of detail required by the question (stay within topic)
 3. know when to say "I don't know" (awareness of knowledge/skill gaps)
 
-Questions will be related to the learning material (both **knowledge and skills**) that have been covered thus far.
+Questions will be related to the learning material: **knowledge and skills** that have been covered thus far.
 
 - Mostly from this week
 - some from last week
