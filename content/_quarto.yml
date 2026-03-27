@@ -5,14 +5,26 @@ project:
     port: 4700
   output-dir: _site
   render: 
+    - index.qmd
     - W1/
     - W2/
+    - W3/
 
 website:
   navbar:
     left:
-      - href: index.qmd
-        text: "Home"
+      - href: W1/
+        text: "Python"
+      - href: W2/
+        text: "DS"
+      - href: W3/
+        text: "ML"
+      - href: W4/
+        text: "DL"
+      - href: W5/
+        text: "Agentic"
+      - href: W6/
+        text: "Vibe"
   sidebar: 
     style: docked
     search: true

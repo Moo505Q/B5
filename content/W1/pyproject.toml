@@ -1,7 +1,7 @@
 [project]
-name = "w1"
+name = "W1-Python"
 version = "0.1.0"
-description = "Automation with Python"
+description = "Python Programming"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []

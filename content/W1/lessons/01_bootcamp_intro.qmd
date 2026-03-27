@@ -27,15 +27,6 @@ format: revealjs
 
 :::
 
-## Policy: Attendance
-
-The fourth absence will result in explusion from the bootcamp:
-
-- Being late counts as 1/4 absence
-- Leaving class frequently will result in 1 absence
-- Execused absences must be proved by hospital
-
-
 ## Pedagogy
 
 You will do most of the work.
@@ -194,10 +185,9 @@ Your brain wants comfort; but as we all know- No pain. No gain. This is true for
 ## Policy: Getting Help from AI
 
 ::: {.incremental}
-- Relying on AI to solve your issues is **provably destructive to your learning**.
-- Making mistakes is totally fine, but **cheating will result in banning from the bootcamp** without the possibility of return. This will be taken very seriously and no exceptions will be given whatsoever.
+- Relying on AI to solve your issues is destructive to your learning.
+- Making mistakes is totally fine, but cheating will result in banning from the bootcamp.
 - We have sophisticated ways of detection.
-- Instructors are here to help you; don't be afraid to ask questions you feel are "stupid" because there is no such thing.
 ::: 
 
 ## Bad Students
@@ -218,3 +208,5 @@ Your brain wants comfort; but as we all know- No pain. No gain. This is true for
 3. You ask the right questions; for the sake of learning
 4. You are not afraid of making mistakes; for the sake of exceeding your limits
 ::: 
+
+# The End

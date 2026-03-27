@@ -1,5 +1,0 @@
-project:
-  type: default
-
-python: 
-  path: .venv/bin/python

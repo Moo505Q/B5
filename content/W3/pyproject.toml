@@ -1,5 +1,5 @@
 [project]
-name = "W4-ML"
+name = "W3-ML"
 version = "0.1.0"
 description = "Machine Learning Course 6"
 readme = "README.md"
@@ -16,6 +16,7 @@ dependencies = [
 dev = [
     "ipykernel>=7.2.0",
     "ipywidgets>=8.1.8",
+    "jupyter>=1.1.1",
     "jupyter-cache>=1.0.1",
     "nbclient>=0.10.4",
     "nbformat>=5.10.4",

@@ -2,20 +2,37 @@
 format: "html"
 ---
 
+## Adminstrative
+
+### Welcome
+
+[Welcome to the Applied AI Bootcamp!](./W1/lessons/01_bootcamp_intro.qmd).
+
+### Communication
+
+- Bookmark the [Shared Drive](https://drive.google.com/drive/folders/1X-mQ17zpkXD4VAeOfkSMKuPmCNlhMw1N?usp=sharing)
+- [Join the Classroom](https://classroom.google.com/h) using the code
+
+### Attendance
+
+- Being late counts as 1/4 absence
+- Leaving class very frequently counts as 1/2 absence
+- Execused absences must be officially documented
+- Four absence points will result in explusion
+
+## Slides Tips
+
+- `S` to open speaker notes
+- `Ctrl+click` to zoom
+- `Esc` to navigate the slides
+- `M` to navigate from the outline
+- `E` to view slides concatenated as one page
+
 ## Courses
 
 1. [Python](W1/)
 2. [Applied Data Science](W2/)
 3. [Applied Machine Learning](W3/)
 4. Applied Deep Learning
-5. [Agentic AI](W5/)
+5. Agentic AI
 6. Agentic Engineering
-
-[Click to access the Schedule](https://docs.google.com/spreadsheets/d/1I8qq_lphrymOCXXQTBf7ieL2SdGovz_wwqj93PLz2mQ/edit?usp=sharing)
-
-## Slides Tips
-
-- `Ctrl+click` to zoom
-- `Esc` to navigate the slides
-- `M` to navigate from the outline
-- `E` to view slides concatenated as one page
